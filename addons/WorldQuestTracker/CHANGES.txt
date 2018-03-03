@@ -1,0 +1,7 @@
+changeset:   273:55e8b8fb3141
+tag:         v7.3.5.273-release
+user:        Tercio
+date:        Fri Feb 23 13:14:19 2018 -0300
+summary:     - Removed the string telling about the next knownledge update on the artifact power tooltip.
+
+

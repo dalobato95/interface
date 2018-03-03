@@ -1,0 +1,14 @@
+## Interface: 70300
+## Author: Blazeflack
+## Credit: Azilroka, Benik
+## Version: 1.36
+## Title: |cff1784d1ElvUI|r |cff4beb2cCustomTweaks|r
+## Notes: A collection of various tweaks to ElvUI, requested by the users.
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+
+locales.lua
+core.lua
+categories\load_categories.xml
+
+## X-Tukui-ProjectFolders: ElvUI_CustomTweaks

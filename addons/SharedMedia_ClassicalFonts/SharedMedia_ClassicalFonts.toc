@@ -1,0 +1,24 @@
+## Interface: 70300
+## Title: SharedMedia Classical Fonts
+## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
+## Notes-ruRU: Добавление классических шрифтов в LibSharedMedia-3.0
+## Notes-deDE: Fügt LibSharedMedia-3.0 einige Schriften im klassischen Stil hinzu.
+## Notes-esMX: Añade fuentes en estilos clásicos del mundo al LibSharedMedia-3.0
+## Notes-esES: Añade fuentes en estilos clásicos del mundo al LibSharedMedia-3.0
+
+## Version: 7.3-release1
+## Author: Myrroddin of Llane-US (Alliance, Knights of the Storm)
+## X-Category: Plugins
+## X-License: Public Domain. See Licences folder for details
+## X-Date: 2017-09-01T0:57:32Z
+## X-Revision: 26
+
+## OptionalDeps: LibStub, CallbackHander-1.0, LibSharedMedia-3.0
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\CallbackHander-1.0\CallbackHander-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+#@end-no-lib-strip@
+
+Main.lua

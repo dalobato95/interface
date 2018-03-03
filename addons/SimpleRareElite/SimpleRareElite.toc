@@ -1,0 +1,14 @@
+## Interface: 70000
+## Title: SimpleRareElite
+## Version: 1.28
+## Author: Meky / Credits: Hati
+## Notes: Display textures for Boss/Elite/Rare/RareElite
+## SavedVariablesPerCharacter: skin, fl
+## OptionalDeps: ElvUI, Tukui
+
+
+SimpleRareElite.lua
+ 
+ 
+## X-Tukui-ProjectID: 257
+## X-Tukui-ProjectFolders: SimpleRareElite
